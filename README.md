@@ -1,6 +1,8 @@
 # Meta-Database-Engineer-Professional
 Meta Database Engineer Professional Certificate
 
+![meta-logo](https://github.com/Memmes27/Meta-Database-Engineer-Professional/assets/63331353/5cbd45aa-c538-4e18-b4af-df3d25f03d90)
+
 
 - This repo contains all of my assignments from the Coursera Professional Certificate: Meta Database Engineer Professional Certificate
 # Table of Content
@@ -10,6 +12,9 @@ Meta Database Engineer Professional Certificate
   - Week 3: SQL Operators and sorting and filtering data
   - Week 4: Database design
   - Week 5: Graded assessment
+  - 
+[Introduction_To_Databases_Meta.pdf](https://github.com/Memmes27/Meta-Database-Engineer-Professional/files/12352974/Introduction_To_Databases_Meta.pdf)
+
 - Course 2: Version Control
   - Week 1: Software collaboration
   - Week 2: Command Line
