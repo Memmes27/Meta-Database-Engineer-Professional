@@ -15,3 +15,6 @@
 ## Proof of Completion
 
 [Certificate - Intro to Databases.pdf](https://github.com/Memmes27/Meta-Database-Engineer-Professional/files/12353895/Certificate.-.Intro.to.Databases.pdf)
+
+<img width="703" alt="Certificate - Intro to Databases" src="https://github.com/Memmes27/Meta-Database-Engineer-Professional/assets/63331353/9dda325f-4779-43fb-b467-23ffc2b6640e">
+
