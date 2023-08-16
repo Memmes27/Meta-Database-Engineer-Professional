@@ -14,4 +14,4 @@
 
 ## Proof of Completion
 
-<img src="./certificate.png" width=800>
+[Certificate - Intro to Databases.pdf](https://github.com/Memmes27/Meta-Database-Engineer-Professional/files/12353895/Certificate.-.Intro.to.Databases.pdf)
