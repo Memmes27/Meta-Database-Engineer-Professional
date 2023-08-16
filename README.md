@@ -6,14 +6,13 @@ Meta Database Engineer Professional Certificate
 
 - This repo contains all of my assignments from the Coursera Professional Certificate: Meta Database Engineer Professional Certificate
 # Table of Content
-- Course 1: Introduction to Databases
-  - Week 1: Introduction to Databases
-  - Week 2: Create, Read, Update and Delete (CRUD) Operations
-  - Week 3: SQL Operators and sorting and filtering data
-  - Week 4: Database design
-  - Week 5: Graded assessment
-  - 
-[Introduction_To_Databases_Meta.pdf](https://github.com/Memmes27/Meta-Database-Engineer-Professional/files/12352974/Introduction_To_Databases_Meta.pdf)
+- [Course 1: Introduction to Databases](https://github.com/Memmes27/Meta-Database-Engineer-Professional/tree/main/Course%201%20-%20Introduction%20to%20Databases)
+  - Week 1: [Introduction to Databases](https://github.com/Memmes27/Meta-Database-Engineer-Professional/tree/main/Course%201%20-%20Introduction%20to%20Databases/Week%201%20-%20Introduction%20to%20Databases)
+  - Week 2: [Create, Read, Update and Delete (CRUD) Operations](https://github.com/Memmes27/Meta-Database-Engineer-Professional/tree/main/Course%201%20-%20Introduction%20to%20Databases/Week%202%20-%20Create%2C%20Read%2C%20Update%20and%20Delete%20(CRUD)%20Operations)
+  - Week 3: [SQL Operators and sorting and filtering data](https://github.com/Memmes27/Meta-Database-Engineer-Professional/tree/main/Course%201%20-%20Introduction%20to%20Databases/Week%203%20-%20SQL%20Operators%20and%20sorting%20and%20filtering%20data)
+  - Week 4: [Database design](https://github.com/Memmes27/Meta-Database-Engineer-Professional/tree/main/Course%201%20-%20Introduction%20to%20Databases/Week%204%20-%20Database%20design)
+  - Week 5: [Graded assessment](https://github.com/Memmes27/Meta-Database-Engineer-Professional/tree/main/Course%201%20-%20Introduction%20to%20Databases/Week%205%20-%20Graded%20assessment)
+  - Certificate: [Introduction_To_Databases_Meta.pdf](https://github.com/Memmes27/Meta-Database-Engineer-Professional/files/12352974/Introduction_To_Databases_Meta.pdf)
 
 - Course 2: Version Control
   - Week 1: Software collaboration
