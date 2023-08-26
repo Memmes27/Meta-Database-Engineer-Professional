@@ -13,4 +13,4 @@
 
 ## Proof of Completion
 
-[Certificate - Version Control (Git)] ![Certificate - Version Control (Git)](https://github.com/Memmes27/Meta-Database-Engineer-Professional/assets/63331353/82b2f6c6-925a-4723-926c-b380c1be6b3d)
+[Certificate - Version Control](https://github.com/Memmes27/Meta-Database-Engineer-Professional/assets/63331353/673288ed-bfd6-484e-bba2-14427a541fbf)
