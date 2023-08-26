@@ -19,6 +19,7 @@ Meta Database Engineer Professional Certificate
   - Week 2: [Command Line](https://github.com/Memmes27/Meta-Database-Engineer-Professional/tree/main/Course%202%20-%20Version%20Control/Week%202%20-%20Command%20Line)
   - Week 3: [Working with Git](https://github.com/Memmes27/Meta-Database-Engineer-Professional/tree/main/Course%202%20-%20Version%20Control/Week%203%20-%20Working%20with%20Git)
   - Week 4: [Graded Assessment](https://github.com/Memmes27/Meta-Database-Engineer-Professional/tree/main/Course%202%20-%20Version%20Control/Week%204%20-%20Graded%20Assessment)
+  - Certificate: [Version Control.pdf](https://github.com/Memmes27/Meta-Database-Engineer-Professional/blob/main/Course%202%20-%20Version%20Control/Certificate%20-%20Version%20Control%20(Git).pdf)
 - Course 3: Database Structures and Management with MySQL
   - Week 1:
   - Week 2:
